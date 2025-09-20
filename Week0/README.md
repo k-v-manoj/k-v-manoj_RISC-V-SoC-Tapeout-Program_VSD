@@ -1,7 +1,7 @@
 
-# Week 0 – Tool Installation
+# Tool Installation
 
-In this week, I set up the essential tools required for digital design and verification: **Icarus Verilog**, **GTKWave**, and **Yosys**. These tools will help us in simulation, waveform viewing, and synthesis throughout the course.
+In this week, I set up the essential tools required for digital design and verification: **Icarus Verilog**, **GTKWave**, and **Yosys**. These tools will help in simulation, waveform viewing, and synthesis.
 
 ---
 
