@@ -33,7 +33,7 @@ iverilog -v
 ```
 
 ---
-![Alt Text](Images/yosys_installation_done.jpeg)
+![Alt Text](Images/Iverilog_Installation.png)
 
 ## 2️⃣ GTKWave
 
@@ -50,12 +50,12 @@ sudo apt-get install gtkwave
 **Check installation**:
 
 ```bash
-gtkwave --version
+gtkwave -version
 ```
 
 ---
 
-![Alt Text](Images/yosys_installation_done.jpeg)
+![Alt Text](Images/GTK_Wave_Installation.png)
 
 ## 3️⃣ Yosys
 
@@ -86,6 +86,6 @@ yosys -V
 
 ---
 
-![Alt Text](Images/yosys_installation_done.jpeg)
+![Alt Text](Images/Yosys_Installation.png)
 
 
